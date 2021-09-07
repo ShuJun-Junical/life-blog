@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>青章浚的小站</title>
+        <title>青章浚的生活随笔</title>
         <link>https://imjz.net</link>
         <description></description>
-        <lastBuildDate>Mon, 06 Sep 2021 04:22:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Sep 2021 10:08:50 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <item>
@@ -14,11 +14,13 @@
             <pubDate>Sat, 14 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[新站第一篇博客~
 
-部署于Github Pages
+本站是我的生活随笔站，多发表生活随笔文章。
 
-https://github.com/JupiterJun/JupiterJun.github.io
+https://github.com/JupiterJun/life-blog
 
-目前云函数JsDelivr转发这块还有点小问题，字体和svg加载不出来 ...]]></description>
+目前云函数JsDelivr转发这块还有点小问题，字体和svg加载不出来
+
+注：2021年 9 月 7 日完成技术博客和生活博客分离 ...]]></description>
         </item>
         <item>
             <title><![CDATA[图片速度测速和更换部署方案]]></title>
@@ -41,13 +43,6 @@ https://github.com/JupiterJun/JupiterJun.github.io
             <description><![CDATA[2021 年 4 月 17 日，我们举行了成人礼。我参与了部分活动视频背景的制作，这是我的一些零碎的思考。]]></description>
             <enclosure url="https://imjz.net/../imgs/2021-09-05-18-essays/1.jpg">
             </enclosure>
-        </item>
-        <item>
-            <title><![CDATA[使用 Jsdelivr 部署国内访问速度友好的静态站]]></title>
-            <link>https://imjz.net/2021/09/05/use-jsdelivr-to-deploy-a-static-station/</link>
-            <guid>https://imjz.net/2021/09/05/use-jsdelivr-to-deploy-a-static-station/</guid>
-            <pubDate>Sun, 05 Sep 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[新探索出一种可以国内免备案部署静态网站且访问速度较快、工作流简洁不繁琐的方法。]]></description>
         </item>
     </channel>
 </rss>
